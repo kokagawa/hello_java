@@ -6,6 +6,7 @@ class Hello {
 
 
 		String name = "note";
+		System.out.println("Hello " + name + "！！");
         System.out.println("Hello " + name + "！！");
         System.out.println("Hello " + name + " again！！");
     }
